@@ -35,6 +35,18 @@ Built with **React + Vite**, flowing with precision. 💧
 ---
 *Be like water, my friend. It can flow or it can crash.* 🌊
 
-
 ## Deployment & Repository Status
-{}
+
+- **Standardized Name**: `neutral-zero`
+- **Remote Origin**: `https://github.com/polerix/neutral-zero.git`
+- **License Level**: `MIT` ([`LICENSE`](LICENSE))
+- **Security Policy**: [`SECURITY.md`](SECURITY.md)
+- **GitHub Actions**: ✅ Active
+- **Last Compliance Audit**: `2026-10-18`
+
+### GitHub CleanUp Log
+- **Unused / Archive / Cache Items Moved to `/Volumes/Clay/GitHubCleanUp/neutral-zero/`**: 4 item(s) (4514 files, 80.78 MB)
+  - `dist` — Untracked local Vite build directory (6 file(s), 329.5 KB)
+  - `images/Screenshot_20260314_192213_Facebook.jpg` — Duplicate of public/bg.jpg (1 file(s), 101.3 KB)
+  - `node_modules` — Local dependency/build cache (node_modules) (4506 file(s), 80.35 MB)
+  - `.DS_Store` — OS metadata file (1 file(s), 8.0 KB)
